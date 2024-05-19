@@ -4,25 +4,13 @@
 
 A Next.js application that transforms UI sketches on a virtual canvas into ready-to-use HTML and TailwindCSS code using GPT-4o.
 
-<img width="1920" alt="GPlus - Landing page" src="">
+<img width="1920" alt="GPlus - Landing page" src="https://github.com/imvinojanv/sketch-to-ui/assets/48822560/7ef8074a-b641-4b6f-8dce-a3c24a88c781">
 
 This works by just taking the current canvas SVG, converting it to a PNG, and sending that png to gpt-4-vision with instructions to return a single html file with tailwind.
 
 ## Build with
 [![Next][Next.js]][Next-url] [![TypeScript][TypeScript]][TypeScript-url] [![GPT-4o][gpt-4o]][gpt-4o-url] [![TailwindCSS][Tailwind-css]][Tailwind-url] 
 
-## Getting Started
-
-To get started run the following commands in the root directory of the project. 
-You will need an OpenAI API key with access to the GPT-4 Vision API.
-
-> Note this uses Next.js 14 and requires a version of `node` greater than 18.17. [Read more here](https://nextjs.org/docs/pages/building-your-application/upgrading/version-14).
-
-```bash
-echo "OPENAI_API_KEY=sk-your-key" > .env.local
-npm install
-npm run dev
-```
 ## Getting Started 🎉
 To get a local copy up and running on your machine, follow these simple steps.
 
