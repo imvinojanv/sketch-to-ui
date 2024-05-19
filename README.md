@@ -4,7 +4,7 @@
 
 A Next.js application that transforms UI sketches on a virtual canvas into ready-to-use HTML and TailwindCSS code using GPT-4o.
 
-<img width="1920" alt="GPlus - Landing page" src="https://github.com/imvinojanv/sketch-to-ui/assets/48822560/7ef8074a-b641-4b6f-8dce-a3c24a88c781">
+<img width="1920" alt="GPlus - Landing page" src="https://github.com/imvinojanv/sketch-to-ui/assets/48822560/d57dd380-20c5-403a-ae57-5a6cf74988ff">
 
 This works by just taking the current canvas SVG, converting it to a PNG, and sending that png to gpt-4-vision with instructions to return a single html file with tailwind.
 
