@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .canvas-height {
+  height: calc(100vh - 60px);
+} */
+
+.tlui-help-menu {
+  display: none !important;
+}
+
+.tlui-debug-panel {
+  display: none !important;
+}
