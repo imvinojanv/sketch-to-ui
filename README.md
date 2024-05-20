@@ -24,7 +24,7 @@ To get a local copy up and running on your machine, follow these simple steps.
 ### Installation
 1.  Clone the repository
    ```sh
-   git clone https://github.com/imvinojanv/gplus-gpa-calculator.git
+   git clone https://github.com/imvinojanv/sketch-to-ui.git
    ```
 2.  Install NPM packages
    ```sh
